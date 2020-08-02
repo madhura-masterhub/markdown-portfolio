@@ -1,1 +1,2 @@
-https://github.com/settings/profile
+
+[My GitHub Profile](https://github.com/settings/profile)
